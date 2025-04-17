@@ -1,4 +1,4 @@
-This repo ontains the following Programming Historian lessons:
+This repo contains the following Programming Historian lessons:
 - [Sentiment Analysis for Exploratory Data Analysis](https://programminghistorian.org/en/lessons/sentiment-analysis)
 - [Analyzing Multilingual French and Russian Text using NLTK, spaCy, and Stanza](https://programminghistorian.org/en/lessons/analyzing-multilingual-text-nltk-spacy-stanza)
 
